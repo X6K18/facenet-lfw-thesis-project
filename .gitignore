@@ -1,0 +1,11 @@
+
+data/*
+!data/README.md
+!data/.gitkeep 
+
+
+# Ignore all files in models
+models/*
+
+# Except README.md
+!models/README.md
